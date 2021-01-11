@@ -6,6 +6,7 @@ chat-springboot-and-angular
 **Languages and Tools:**  
 
 <code><img height="35" src="https://alexlondon07.github.io/images/iconos/iconos-visual-studio-code.png"></code>
+<code><img height="35" src="https://1.bp.blogspot.com/-7cuJb_EC5Fo/XSSHw25QPyI/AAAAAAAAC14/FLzWCcSH4HgZU0huCJEvZILdlS_YBq5XQCLcBGAs/s1600/java8-spring-boot-trypescript-angular.png"></code>
 <code><img height="35" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
 <code><img height="35" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png"></code>
